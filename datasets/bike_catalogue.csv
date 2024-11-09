@@ -1,0 +1,13 @@
+Product_ID,Product_Model,Category,Price,In_stock
+1100,Cruiser,Off Road, 318.32 ,1
+1101,Hybrid Bike,Street," 3,093.47 ",1
+1102,Folding Bike,Street," 4,247.99 ",0
+1103,Mountain Bike,Off Road," 1,722.01 ",1
+1104,BMX,Off Road," 3,941.44 ",0
+1105,Electric Bike,Street," 2,707.40 ",1
+2100,U Lock,Accessories, 48.00 ,1
+2101,Helmet,Accessories, 42.00 ,1
+2102,Front Mudguard,Accessories, 26.00 ,1
+2103,Rear Mudguard,Accessories, 32.00 ,1
+2104,Front Light,Accessories, 12.00 ,1
+2105,Rear Light,Accessories, 14.00 ,1
